@@ -1,0 +1,6 @@
+# CAEN
+Host umich
+  HostName login.engin.umich.edu
+  User jasonxcp
+  Compression yes
+  
